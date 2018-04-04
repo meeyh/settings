@@ -11,3 +11,5 @@
 [Linux Shell 终端显示当前Git分支名配置](.bashrc)
 
 [Git 全局配置](.gitconfig)
+
+[Samba 服务配置](smb.conf)
