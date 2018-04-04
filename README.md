@@ -13,3 +13,5 @@
 [Git 全局配置](.gitconfig)
 
 [Samba 服务配置](smb.conf)
+
+[Git的多个账号SSH-Key配置](.ssh/config)
