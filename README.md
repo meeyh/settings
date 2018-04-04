@@ -5,3 +5,5 @@
 [Adblock Plus 自定义过滤规则](Adblock-Plus.ini)
 
 [Sublime Text 偏好设置](Preferences.sublime-settings)
+
+[Sogou 自定义短语设置配置](PhraseEdit.txt)
