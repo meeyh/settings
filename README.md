@@ -9,3 +9,5 @@
 [Sogou 自定义短语设置配置](PhraseEdit.txt)
 
 [Linux Shell 终端显示当前Git分支名配置](.bashrc)
+
+[Git 全局配置](.gitconfig)
