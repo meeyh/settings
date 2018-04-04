@@ -7,3 +7,5 @@
 [Sublime Text 偏好设置](Preferences.sublime-settings)
 
 [Sogou 自定义短语设置配置](PhraseEdit.txt)
+
+[Linux Shell 终端显示当前Git分支名配置](.bashrc)
